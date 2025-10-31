@@ -1,0 +1,6 @@
+{
+  "password_reset": "To reset your password, go to the login screen and click 'Forgot Password'. You’ll receive a reset link via email.",
+  "api_error": "If you're facing an API error, please check your API key validity, request format, and ensure correct endpoint URLs.",
+  "billing_issue": "For billing issues, please visit the Billing Portal or contact accounts@company.com.",
+  "integration_help": "Integration documentation is available at https://docs.company.com/integrations."
+}
