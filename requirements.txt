@@ -2,3 +2,8 @@ fastapi
 uvicorn
 requests
 python-dotenv
+transformers
+sentence-transformers
+torch
+openai
+streamlit
