@@ -1,6 +1,7 @@
 import os, json, requests
 from dotenv import load_dotenv
 from utils.persona import detect_persona
+from responder import generate_response
 
 load_dotenv()
 
